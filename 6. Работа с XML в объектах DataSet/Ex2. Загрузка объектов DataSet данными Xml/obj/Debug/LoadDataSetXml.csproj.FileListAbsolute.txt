@@ -1,0 +1,11 @@
+C:\Users\vadim\source\ADO.NET\Homework\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+C:\Users\vadim\source\ADO.NET\Homework\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+C:\Users\vadim\source\ADO.NET\Homework\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+C:\Users\vadim\source\ADO.NET\Homework\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ADO.NET\Homework\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\source\ADO.NET\Homework\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+C:\Users\vadim\source\ADO.NET\Homework\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+C:\Users\vadim\source\ADO.NET\Homework\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+C:\Users\vadim\source\ADO.NET\Homework\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ADO.NET\Homework\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+C:\Users\vadim\source\ADO.NET\Homework\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb
