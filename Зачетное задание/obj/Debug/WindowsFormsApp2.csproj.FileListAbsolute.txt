@@ -1,0 +1,48 @@
+C:\Users\vadim\source\ADO.NET\Lectures\NotFinished\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\vadim\source\ADO.NET\Lectures\NotFinished\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\vadim\source\ADO.NET\Lectures\NotFinished\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\vadim\source\ADO.NET\Lectures\NotFinished\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ADO.NET\Lectures\NotFinished\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\source\ADO.NET\Lectures\NotFinished\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\vadim\source\ADO.NET\Lectures\NotFinished\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\vadim\source\ADO.NET\Lectures\NotFinished\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\vadim\source\ADO.NET\Lectures\NotFinished\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ADO.NET\Lectures\NotFinished\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\vadim\source\ADO.NET\Lectures\NotFinished\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\vadim\source\ADO.NET\Lectures\NotFinished\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET\bin\Debug\WindowsFormsApp2.exe
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET\obj\Debug\WindowsFormsApp2.exe
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET1\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET1\bin\Debug\WindowsFormsApp2.exe
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET1\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET1\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET1\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET1\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET1\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET1\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET1\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET1\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET1\obj\Debug\WindowsFormsApp2.exe
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET1\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\vadim\source\ADO.NET\Homework\Зачетное задание ADO.NET2\obj\Debug\WindowsFormsApp2.pdb
