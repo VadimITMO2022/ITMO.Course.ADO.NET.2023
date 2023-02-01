@@ -1,0 +1,33 @@
+C:\Users\vadim\source\ADO1_WindowsForms\bin\Debug\ADO1_WindowsForms.exe.config
+C:\Users\vadim\source\ADO1_WindowsForms\bin\Debug\ADO1_WindowsForms.exe
+C:\Users\vadim\source\ADO1_WindowsForms\bin\Debug\ADO1_WindowsForms.pdb
+C:\Users\vadim\source\ADO1_WindowsForms\obj\Debug\ADO1_WindowsForms.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ADO1_WindowsForms\obj\Debug\ADO1_WindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\source\ADO1_WindowsForms\obj\Debug\ADO1_WindowsForms.Form1.resources
+C:\Users\vadim\source\ADO1_WindowsForms\obj\Debug\ADO1_WindowsForms.Properties.Resources.resources
+C:\Users\vadim\source\ADO1_WindowsForms\obj\Debug\ADO1_WindowsForms.csproj.GenerateResource.cache
+C:\Users\vadim\source\ADO1_WindowsForms\obj\Debug\ADO1_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ADO1_WindowsForms\obj\Debug\ADO1_WindowsForms.exe
+C:\Users\vadim\source\ADO1_WindowsForms\obj\Debug\ADO1_WindowsForms.pdb
+C:\Users\vadim\source\ADO1_WindowsForms_vector\bin\Debug\ADO1_WindowsForms.exe.config
+C:\Users\vadim\source\ADO1_WindowsForms_vector\bin\Debug\ADO1_WindowsForms.exe
+C:\Users\vadim\source\ADO1_WindowsForms_vector\bin\Debug\ADO1_WindowsForms.pdb
+C:\Users\vadim\source\ADO1_WindowsForms_vector\obj\Debug\ADO1_WindowsForms.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ADO1_WindowsForms_vector\obj\Debug\ADO1_WindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\source\ADO1_WindowsForms_vector\obj\Debug\ADO1_WindowsForms.Form1.resources
+C:\Users\vadim\source\ADO1_WindowsForms_vector\obj\Debug\ADO1_WindowsForms.Properties.Resources.resources
+C:\Users\vadim\source\ADO1_WindowsForms_vector\obj\Debug\ADO1_WindowsForms.csproj.GenerateResource.cache
+C:\Users\vadim\source\ADO1_WindowsForms_vector\obj\Debug\ADO1_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ADO1_WindowsForms_vector\obj\Debug\ADO1_WindowsForms.exe
+C:\Users\vadim\source\ADO1_WindowsForms_vector\obj\Debug\ADO1_WindowsForms.pdb
+C:\Users\vadim\source\ADO.NET\Homework\2. Выполнение команд\Ex2. Получение набора данных\bin\Debug\ADO1_WindowsForms.exe.config
+C:\Users\vadim\source\ADO.NET\Homework\2. Выполнение команд\Ex2. Получение набора данных\bin\Debug\ADO1_WindowsForms.exe
+C:\Users\vadim\source\ADO.NET\Homework\2. Выполнение команд\Ex2. Получение набора данных\bin\Debug\ADO1_WindowsForms.pdb
+C:\Users\vadim\source\ADO.NET\Homework\2. Выполнение команд\Ex2. Получение набора данных\obj\Debug\ADO1_WindowsForms.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ADO.NET\Homework\2. Выполнение команд\Ex2. Получение набора данных\obj\Debug\ADO1_WindowsForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\source\ADO.NET\Homework\2. Выполнение команд\Ex2. Получение набора данных\obj\Debug\ADO1_WindowsForms.Form1.resources
+C:\Users\vadim\source\ADO.NET\Homework\2. Выполнение команд\Ex2. Получение набора данных\obj\Debug\ADO1_WindowsForms.Properties.Resources.resources
+C:\Users\vadim\source\ADO.NET\Homework\2. Выполнение команд\Ex2. Получение набора данных\obj\Debug\ADO1_WindowsForms.csproj.GenerateResource.cache
+C:\Users\vadim\source\ADO.NET\Homework\2. Выполнение команд\Ex2. Получение набора данных\obj\Debug\ADO1_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ADO.NET\Homework\2. Выполнение команд\Ex2. Получение набора данных\obj\Debug\ADO1_WindowsForms.exe
+C:\Users\vadim\source\ADO.NET\Homework\2. Выполнение команд\Ex2. Получение набора данных\obj\Debug\ADO1_WindowsForms.pdb
