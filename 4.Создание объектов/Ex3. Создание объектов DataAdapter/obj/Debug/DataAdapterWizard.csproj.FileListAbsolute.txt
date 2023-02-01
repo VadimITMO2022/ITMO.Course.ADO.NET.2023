@@ -1,0 +1,22 @@
+C:\Users\vadim\source\ADO.NET\Homework\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe.config
+C:\Users\vadim\source\ADO.NET\Homework\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe
+C:\Users\vadim\source\ADO.NET\Homework\DataAdapterWizard\bin\Debug\DataAdapterWizard.pdb
+C:\Users\vadim\source\ADO.NET\Homework\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ADO.NET\Homework\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\source\ADO.NET\Homework\DataAdapterWizard\obj\Debug\DataAdapterWizard.Form1.resources
+C:\Users\vadim\source\ADO.NET\Homework\DataAdapterWizard\obj\Debug\DataAdapterWizard.Properties.Resources.resources
+C:\Users\vadim\source\ADO.NET\Homework\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.GenerateResource.cache
+C:\Users\vadim\source\ADO.NET\Homework\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ADO.NET\Homework\DataAdapterWizard\obj\Debug\DataAdapterWizard.exe
+C:\Users\vadim\source\ADO.NET\Homework\DataAdapterWizard\obj\Debug\DataAdapterWizard.pdb
+C:\Users\vadim\source\ADO.NET\Homework\4. Создание объектов DataSet\Ex3. Создание объектов DataAdapter-\bin\Debug\DataAdapterWizard.exe.config
+C:\Users\vadim\source\ADO.NET\Homework\4. Создание объектов DataSet\Ex3. Создание объектов DataAdapter-\bin\Debug\DataAdapterWizard.exe
+C:\Users\vadim\source\ADO.NET\Homework\4. Создание объектов DataSet\Ex3. Создание объектов DataAdapter-\bin\Debug\DataAdapterWizard.pdb
+C:\Users\vadim\source\ADO.NET\Homework\4. Создание объектов DataSet\Ex3. Создание объектов DataAdapter-\obj\Debug\DataAdapterWizard.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ADO.NET\Homework\4. Создание объектов DataSet\Ex3. Создание объектов DataAdapter-\obj\Debug\DataAdapterWizard.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\source\ADO.NET\Homework\4. Создание объектов DataSet\Ex3. Создание объектов DataAdapter-\obj\Debug\DataAdapterWizard.Form1.resources
+C:\Users\vadim\source\ADO.NET\Homework\4. Создание объектов DataSet\Ex3. Создание объектов DataAdapter-\obj\Debug\DataAdapterWizard.Properties.Resources.resources
+C:\Users\vadim\source\ADO.NET\Homework\4. Создание объектов DataSet\Ex3. Создание объектов DataAdapter-\obj\Debug\DataAdapterWizard.csproj.GenerateResource.cache
+C:\Users\vadim\source\ADO.NET\Homework\4. Создание объектов DataSet\Ex3. Создание объектов DataAdapter-\obj\Debug\DataAdapterWizard.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ADO.NET\Homework\4. Создание объектов DataSet\Ex3. Создание объектов DataAdapter-\obj\Debug\DataAdapterWizard.exe
+C:\Users\vadim\source\ADO.NET\Homework\4. Создание объектов DataSet\Ex3. Создание объектов DataAdapter-\obj\Debug\DataAdapterWizard.pdb
