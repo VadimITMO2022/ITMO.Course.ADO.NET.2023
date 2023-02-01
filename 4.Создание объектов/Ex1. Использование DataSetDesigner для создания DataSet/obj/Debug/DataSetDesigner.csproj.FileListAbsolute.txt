@@ -1,0 +1,11 @@
+C:\Users\vadim\source\ADO.NET\Homework\DataSetDesigner\bin\Debug\DataSetDesigner.exe.config
+C:\Users\vadim\source\ADO.NET\Homework\DataSetDesigner\bin\Debug\DataSetDesigner.exe
+C:\Users\vadim\source\ADO.NET\Homework\DataSetDesigner\bin\Debug\DataSetDesigner.pdb
+C:\Users\vadim\source\ADO.NET\Homework\DataSetDesigner\obj\Debug\DataSetDesigner.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ADO.NET\Homework\DataSetDesigner\obj\Debug\DataSetDesigner.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\source\ADO.NET\Homework\DataSetDesigner\obj\Debug\DataSetDesigner.Form1.resources
+C:\Users\vadim\source\ADO.NET\Homework\DataSetDesigner\obj\Debug\DataSetDesigner.Properties.Resources.resources
+C:\Users\vadim\source\ADO.NET\Homework\DataSetDesigner\obj\Debug\DataSetDesigner.csproj.GenerateResource.cache
+C:\Users\vadim\source\ADO.NET\Homework\DataSetDesigner\obj\Debug\DataSetDesigner.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ADO.NET\Homework\DataSetDesigner\obj\Debug\DataSetDesigner.exe
+C:\Users\vadim\source\ADO.NET\Homework\DataSetDesigner\obj\Debug\DataSetDesigner.pdb
