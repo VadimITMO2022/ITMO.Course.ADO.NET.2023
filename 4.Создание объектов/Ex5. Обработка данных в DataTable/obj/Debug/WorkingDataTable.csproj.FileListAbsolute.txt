@@ -1,0 +1,11 @@
+C:\Users\vadim\source\ADO.NET\Homework\WorkingDataTable\bin\Debug\WorkingDataTable.exe.config
+C:\Users\vadim\source\ADO.NET\Homework\WorkingDataTable\bin\Debug\WorkingDataTable.exe
+C:\Users\vadim\source\ADO.NET\Homework\WorkingDataTable\bin\Debug\WorkingDataTable.pdb
+C:\Users\vadim\source\ADO.NET\Homework\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ADO.NET\Homework\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\source\ADO.NET\Homework\WorkingDataTable\obj\Debug\WorkingDataTable.Form1.resources
+C:\Users\vadim\source\ADO.NET\Homework\WorkingDataTable\obj\Debug\WorkingDataTable.Properties.Resources.resources
+C:\Users\vadim\source\ADO.NET\Homework\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.GenerateResource.cache
+C:\Users\vadim\source\ADO.NET\Homework\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ADO.NET\Homework\WorkingDataTable\obj\Debug\WorkingDataTable.exe
+C:\Users\vadim\source\ADO.NET\Homework\WorkingDataTable\obj\Debug\WorkingDataTable.pdb
