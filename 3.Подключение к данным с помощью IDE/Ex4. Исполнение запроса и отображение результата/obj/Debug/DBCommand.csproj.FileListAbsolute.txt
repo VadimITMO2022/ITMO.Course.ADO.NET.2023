@@ -1,0 +1,22 @@
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение-\bin\Debug\DBCommand.exe.config
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение-\bin\Debug\DBCommand.exe
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение-\bin\Debug\DBCommand.pdb
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение-\obj\Debug\DBCommand.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение-\obj\Debug\DBCommand.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение-\obj\Debug\DBCommand.Form1.resources
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение-\obj\Debug\DBCommand.Properties.Resources.resources
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение-\obj\Debug\DBCommand.csproj.GenerateResource.cache
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение-\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение-\obj\Debug\DBCommand.exe
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение-\obj\Debug\DBCommand.pdb
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение- — копия\bin\Debug\DBCommand.exe.config
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение- — копия\bin\Debug\DBCommand.exe
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение- — копия\bin\Debug\DBCommand.pdb
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение- — копия\obj\Debug\DBCommand.csproj.AssemblyReference.cache
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение- — копия\obj\Debug\DBCommand.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение- — копия\obj\Debug\DBCommand.Form1.resources
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение- — копия\obj\Debug\DBCommand.Properties.Resources.resources
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение- — копия\obj\Debug\DBCommand.csproj.GenerateResource.cache
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение- — копия\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение- — копия\obj\Debug\DBCommand.exe
+C:\Users\vadim\source\ADO.NET\Homework\3. Подключение к данным с помощью IDE\Ex3. Добавление объектов ADO.NET в WinForms приложение- — копия\obj\Debug\DBCommand.pdb
